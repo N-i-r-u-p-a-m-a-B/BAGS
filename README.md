@@ -36,8 +36,4 @@ Open your browser and go to http://localhost:3000.
 - **My Account:** Admins can log in to manage products and view analytics.
 - **Logout:** Click on the logout option to end your session.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact<br>
-Sakshi Taneja - 1sakshitaneja@gmail.com
